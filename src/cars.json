@@ -1,0 +1,7 @@
+[
+    {"id":1, "brand": "Vinfast", "model": "VF e34", "price": 20000},
+    {"id":1, "brand": "Honda", "model": "Civic", "price": 20000},
+    {"id":1, "brand": "Toyota", "model": "Vios", "price": 20000},
+    {"id":1, "brand": "Huyndai", "model": "Santafe", "price": 20000},
+    {"id":1, "brand": "Mazda", "model": "CX5", "price": 20000}
+]
